@@ -55,4 +55,10 @@ Atualmente, estou estudando Java, SQL e os fundamentos do desenvolvimento Back-E
   <img alt="cat" height="100" src="https://media.discordapp.net/attachments/421832715403526144/1359365855430971594/luna-crunchycat.gif?ex=67f7379b&is=67f5e61b&hm=a83846c9a3ca264159ffc56ae865e07bf39c90fac14cf05c0a99788c33507768" />
 </div>
 
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bnsant/bnsant/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bnsant/bnsant/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bnsant/bnsant/output/github-contribution-grid-snake.svg">
+</picture>
+
 
