@@ -4,7 +4,6 @@ Sou Bernardo Santiago, tenho 19 anos e atualmente moro em Florianópolis, SC. Es
 
 Atualmente, estou estudando Java, SQL e os fundamentos do desenvolvimento Back-End, ao mesmo tempo em que avanço nas práticas e ferramentas do Front-End. Meu objetivo é compreender o ciclo completo de uma aplicação web, do cliente ao servidor.
 
-Acredito que crescer na programação exige consistência, paciência e curiosidade. Não sigo atalhos: prefiro compreender o processo, errar, ajustar e aprender de forma genuína. Busco clareza no código e propósito no que faço, mesmo nas tarefas mais simples.
 
 <div>
   <a href="https://github.com/bnsant">
