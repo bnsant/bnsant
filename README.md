@@ -1,6 +1,6 @@
-## Olá, me chamo Bernardo!
+## Bernardo Santiago | Fullstack Dev
 
-Sou Bernardo Santiago, tenho 19 anos e atualmente moro em Florianópolis, SC. Estou em constante evolução como programador, com foco inicial em tecnologias de Front-End. Com o tempo, venho me aprofundando tanto no desenvolvimento Front-End quanto em Back-End, buscando construir uma base sólida — técnica e conceitual — que me permita atuar com confiança em ambas as áreas.
+Tenho 19 anos e atualmente moro em Florianópolis, SC. Estou em constante evolução como programador, com foco inicial em tecnologias de Front-End. Com o tempo, venho me aprofundando tanto no desenvolvimento Front-End quanto em Back-End, buscando construir uma base sólida — técnica e conceitual.
 
 Atualmente, estou estudando Java, SQL e os fundamentos do desenvolvimento Back-End, ao mesmo tempo em que avanço nas práticas e ferramentas do Front-End. Meu objetivo é compreender o ciclo completo de uma aplicação web, do cliente ao servidor.
 
@@ -33,14 +33,8 @@ Atualmente, estou estudando Java, SQL e os fundamentos do desenvolvimento Back-E
 <br>
 
 <div align="center">
-  <a href="https://www.youtube.com/@egofragil" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
   <a href="https://www.instagram.com/bernxrdw/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.discord.com/410587159364632578" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="mailto:bernardosanlima@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
