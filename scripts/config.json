@@ -1,0 +1,65 @@
+{
+  "name": "bernardo",
+  "handle": "github",
+  "repository": "bnsant",
+  "system": {
+    "os": "Windows 11 26H1, iOS 27",
+    "ide": "NetBeans 31, VS Code 1.138"
+  },
+  "languages": {
+    "programming": "Java, JavaScript, TypeScript, Node.js, SQL",
+    "computer": "HTML, CSS, React, Tailwind",
+    "real": "Portuguese, English"
+  },
+  "hobbies": {
+    "software": "Minecraft modding, Nintendo 3DS jailbreak"
+  },
+  "contact": {
+    "email_personal": "bernardosanlima@gmail.com",
+    "linkedin": "bernardosantiagolima"
+  },
+  "github_stats": {
+    "repos": "—",
+    "contributed": "—",
+    "stars": "—",
+    "commits": "—",
+    "followers": "—",
+    "lines_of_code": "—"
+  },
+  "layout": {
+    "width": 835,
+    "height": 430,
+    "portrait_x": 5,
+    "portrait_y": 20,
+    "portrait_width": 255,
+    "portrait_height": 430,
+    "info_x": 270,
+    "info_y": 46
+  },
+  "themes": {
+    "dark": {
+      "background": "#10111c",
+      "text": "#edeefa",
+      "muted": "#9b9bb3",
+      "label": "#d7b67c",
+      "accent": "#ad9cff",
+      "line": "#3a3654",
+      "portrait": "#edeefa",
+      "portrait_muted": "#625b83",
+      "guitar_body": "#c7bbf5",
+      "guitar_accent": "#f3cf8c"
+    },
+    "light": {
+      "background": "#f7f6fb",
+      "text": "#272338",
+      "muted": "#706b84",
+      "label": "#946b35",
+      "accent": "#6b55ad",
+      "line": "#cec8df",
+      "portrait": "#272338",
+      "portrait_muted": "#aaa4bc",
+      "guitar_body": "#574c8c",
+      "guitar_accent": "#8a5523"
+    }
+  }
+}
